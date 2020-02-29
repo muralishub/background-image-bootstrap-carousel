@@ -1,0 +1,5 @@
+
+GET /    com.murali.controllers.HomeController.home
+
+
+GET     /assets/*file               controllers.Assets.versioned(file)
